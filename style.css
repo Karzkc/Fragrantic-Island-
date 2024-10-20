@@ -143,8 +143,8 @@ ul li {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 300px; /* Customizable */
-    height: 50px;  /* Customizable */
+    width: 300px; 
+    height: 50px;  
     background-color: #f8f8f8;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -163,8 +163,8 @@ ul li {
 }
 
 .auth-option:hover {
-    background-color: #007BFF; /* Hover background color */
-    color: #fff; /* Hover text color */
+    background-color: #007BFF;
+    color: #fff; 
     border-radius: 5px;
 }
 
